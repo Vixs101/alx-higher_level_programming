@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# Compile the Python script into bytecode using Python's py_compile module
+python3 -m py_compile "$PYFILE"
+
