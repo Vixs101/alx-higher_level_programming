@@ -13,3 +13,5 @@ elif num < 6 and num != 0:
         print("{:s} {:d} is -{:d} {:s}".format(str1, number, num, str2))
     else:
         print("{:s} {:d} is {:d} {:s}".format(str1, number, num, str2))
+else:
+    print("{:s} {:d} is -{:d} {:s}".format(str1, number, num, str2))
